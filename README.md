@@ -2,7 +2,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats-git-master-dpc-profile.vercel.app/api?username=dpc-profile&count_private=true&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats-git-master-dpc-profile.vercel.app/api/top-langs/?username=dpc-profile&layout=compact&theme=radical")](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="180em" src="https://github-readme-stats-git-master-dpc-profile.vercel.app/api/top-langs/?username=dpc-profile&layout=compact&theme=radical&hide=html,css")](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 - 🌱 Estou estudando ASP.NET e back-end.
