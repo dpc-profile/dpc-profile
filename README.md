@@ -1,7 +1,6 @@
 ### Olá 👋
 
-<div>
-    <img height="180em" src="https://github-readme-stats-dpc-profile.vercel.app/api?username=dpc-profile&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+<div>    
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpc-profile&layout=compact&theme=radical&hide=html,css" alt="Top Langs">
 </div>
 
